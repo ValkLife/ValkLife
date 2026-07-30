@@ -18,6 +18,29 @@
   <img alt="Architecture: Local first" src="https://img.shields.io/badge/ARCHITECTURE-LOCAL--FIRST-28C7C0?style=for-the-badge&labelColor=100D16">
 </p>
 
+## Ownership and leadership
+
+<table>
+  <tr>
+    <td width="126" align="center">
+      <img src="assets/valklife-mark.png" alt="ValkLife project mark" width="98">
+    </td>
+    <td>
+      <strong>ValkLife — Founder &amp; Final Project Authority</strong><br>
+      Executive Product Owner · Creative Director · Project Governance &amp; Release Authority<br><br>
+      I own and direct the ValkLife OSRS Bible project: its vision, production priorities, brand standards, acceptance criteria, community strategy, and final release authorization. Project agents and specialist workflows are accountable to this authority and operate only within approved scopes.
+    </td>
+  </tr>
+</table>
+
+| Responsibility | Decision authority |
+| --- | --- |
+| **Product direction** | Defines the user outcome, scope, and production order |
+| **Production governance** | Approves quality, privacy, safety, and evidence standards |
+| **Creative direction** | Owns the visual identity and public presentation |
+| **Final acceptance** | Accepts or rejects completed work against explicit criteria |
+| **Release authorization** | Makes the final decision to publish, install, or announce a release |
+
 > [!IMPORTANT]
 > ValkLife projects read and present information. They do **not** click, walk, attack, switch gear, activate prayers, consume items, bank, trade, or otherwise automate gameplay.
 
